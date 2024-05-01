@@ -7,13 +7,13 @@
 
 **Backend Development:** `Node.js` `Nest.js` `Express.js` `Golang` `Gin` `gRPC`
 
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind`
+
+**Testing:** `Jest` `Vitest` `Testify` `TDD` `BDD`
+
 **Infrastructure:** `Docker` `Kubernetes` `Terraform` `Amazon Web Services (AWS)` `Google Cloud Platform (GCP)` 
 
 **Database:** `MySQL` `PostgreSQL` `MongoDB` `SQLite` `Redis`
-
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind`
-
-**Testing:** `Jest` `Vitest` `Testify` `Postman` `Insomnia`
 
 ## 📫 Contact
 
