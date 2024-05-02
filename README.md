@@ -9,7 +9,7 @@
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind`
 
-**Testing:** `Jest` `Vitest` `Testify` `Testcontainers` `TDD` `BDD`
+**Testing:** `Jest` `Vitest` `Testing Library` `Testify` `Testcontainers` `TDD` `BDD`
 
 **Infrastructure:** `Docker` `Kubernetes` `Terraform` `Amazon Web Services (AWS)` `Google Cloud Platform (GCP)` 
 
