@@ -15,4 +15,6 @@
 
 ## 📫 Contact
 
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/alankewem). 
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/alankewem).
+
+Another's links [here](https://bento.me/alankewem).
