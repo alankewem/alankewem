@@ -17,4 +17,4 @@
 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/alankewem).
 
-Another's links [here](https://bento.me/alankewem).
+Other links [here](https://bento.me/alankewem).
