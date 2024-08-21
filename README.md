@@ -1,7 +1,10 @@
 #### Hi, I'm Alan Kewem 🛸
 
-- Backend Developer at Solucx.
+> [!IMPORTANT]
+> Currently working on [SoluCX](www.solucx.com.br)
+
 - Bachelor's degree in Computer Science.
+- Backend Developer with over 3 years of experience using Node.js and Golang to build and scale cloud-native applications.
 
 ## 📫 Contact
 
