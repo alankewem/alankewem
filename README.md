@@ -6,5 +6,3 @@
 ## 📫 Contact
 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/alankewem).
-
-Other links [here](https://bento.me/alankewem).
