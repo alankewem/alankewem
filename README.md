@@ -1,6 +1,6 @@
 # Hi, I'm Alan Kewem 🛸
 
-- Backend Developer with 4 years of experience using Node.js and Golang to build and scale cloud-native applications for fintechs on AWS and GCP.
+Backend Developer with 4 years of experience using Node.js and Golang to build and scale cloud-native applications for fintechs on AWS and GCP.
 
 ## Tech Stack
 <p align="left">
