@@ -1,4 +1,7 @@
-# Hi, I'm Alan Kewem 🛸
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=3000&pause=1000&color=BAA1FF&center=true&vCenter=true&width=600&lines=BACKEND+DEVELOPER" alt="ROLL YOUR OWN STACK" />
+</p>
+
 
 Backend Developer with 4 years of experience using Node.js and Golang to build and scale cloud-native applications for fintechs on AWS and GCP.
 
